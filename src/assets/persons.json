@@ -5770,5 +5770,21 @@
             "state": "CA",
             "country": "California"
         }
-    }
+		}
+		{
+			id: 361,
+			name: "Jon Gryn",
+			img: "https://media.licdn.com/dms/image/C5603AQFMSwDhe3E3wQ/profile-displayphoto-shrink_200_200/0?e=1561593600&v=beta&t=YvCriK4VYMA8_2tbAYaYtrQt_QM79dQLY_7Sg-ZGRgY",
+			links: {
+				website: "https://jongryn.github.io/Portfolio/",
+				linkedin: "https://www.linkedin.com/in/jonathangryn/",
+				github: "https://github.com/jongryn/"
+			},
+			jobTitle: "Full Stack Web Developer",
+			location: {
+				city: "Los Angeles",
+				state: "CA",
+				country: "USA"
+			}
+		}
 ]
